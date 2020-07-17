@@ -30,9 +30,49 @@
    This session includes the concepts covered by Varun, . The notes for the session can be found at - 
 
 
-## Prologue 
+## Before we begin, 
 
-As we learnt earlier, $echo$ command is used to print out 
+Lets recall how to create a file and write to it. In the pervious sessions, we created a file using the command `touch`. Now using this command create a file in the same directory. For example, 
+
+```
+$ touch your_name
+```
+
+After creating the file, echo your name, username, date and time into that file. Look the following piece of code.
+
+
+```
+$ echo "your_name" >> your_name
+$ echo "$(whoami)" >> your_name
+$ echo "$(date)" >> your_name
+```
+
+And you are done for this section. Hop on to the main problem set.
 
 
 ## Problems 
+
+###  Files and directories
+
+* Create a directory named "problem_1".
+
+* No move the file named "problem-1.txt" into the directory you created. 
+
+* Change you working directory to the directory you just created.
+
+* copy the contents the file you created in the previous section to the file problem-1.txt
+
+### curl 
+
+* In the previous sessions, we looked at how to use the command *curl*. Here we will curl the website "wttr.in" and put the output into the file named "problem-2". 
+
+### Bash script
+
+* Write a bash script to run the task in a script from the section Before we begin, use vim to edit the file "problem-3.sh". 
+
+### GCC 
+
+* Now the file "pi.c", computes few digits pi and prints it out. The task here is to compile the code using gcc and execute the executable file. 
+
+* Now write a bash script that compiles, executes and writes the output to the file "problem-4".  
+
