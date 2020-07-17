@@ -74,5 +74,5 @@ And you are done for this section. Hop on to the main problem set.
 
 * Now the file "pi.c", computes few digits pi and prints it out. The task here is to compile the code using gcc and execute the executable file. 
 
-* Now write a bash script that compiles, executes and writes the output to the file "problem-4".  
+* Now edit the bash script file "problem-4.sh" that compiles, executes and writes the output to the file "problem-4".  
 
