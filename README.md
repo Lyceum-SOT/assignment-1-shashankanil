@@ -29,7 +29,7 @@ Aaaand... you are done for this section! Hop on to the main problems set.
 
 ## Assignments
 
-These guides will help you with the assignment: [Bash commands](https://drive.google.com/file/d/1AYpua5HxsWFCzytLyKJuLouNcmfiJML9/view) and [Working with Editors](https://lyceum-eot.github.io/course-docs/docs/week3)
+These guides will help you with the assignment: [Bash commands](https://drive.google.com/file/d/1AYpua5HxsWFCzytLyKJuLouNcmfiJML9/view) and [Working with Editors](https://lyceum-eot.github.io/course-docs/docs/working-with-editors)
 
 ###  Problem 1
 
@@ -80,3 +80,4 @@ Introduction to the course. Recordings - [Click here](https://drive.google.com/f
 * Editors and IDE
 
    Here is the recording of the afternoon session on Introduction to Terminal - [Click here.](https://classroom.vrook.co/playback/presentation/2.0/playback.html?meetingId=0c45975583a7c90e11c71a630b48f8b864dc8379-1594876613743)
+   Notes - [Click here](https://lyceum-eot.github.io/course-docs/docs/working-with-editors)
