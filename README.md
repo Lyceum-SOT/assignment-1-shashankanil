@@ -1,32 +1,9 @@
 # Ly-CS101-Assignment-1
 
-## Session Materials
-
-### Week 1
-
-Introduction to the course. Recordings - [Click here](https://drive.google.com/file/d/1x4fmxkPjzwaV8V-mfJPOVnkfuGaFge-J/view?usp=sharing)
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/Lyceum-SOT/Ly-CS101-Assignment-1/blob/master/LICENSE)
 
 
-### Week 2
-
-* Introduction to OS
-
-   Here is the recording of the morning session on Introduction to OS - [Click here.](https://classroom.vrook.co/playback/presentation/2.0/playback.html?meetingId=0c45975583a7c90e11c71a630b48f8b864dc8379-1594445443466)
-
-   This session includes the concepts, such as, Compilers & Interpreters, Compile Time & Run Time, Preprocessing, Parsing, Static Checking, Code Generation, Abstraction, Virtualization, GCC Compiler. The presentations can be found at - [Click here.](https://drive.google.com/file/d/1kZjPCDpvjmxg9TbYzQA6bANixoHwv7Mg/view)
-
-
-* Introduction to Terminal
-
-   Here is the recording of the afternoon session on Introduction to Terminal - [Click here.](https://classroom.vrook.co/playback/presentation/2.0/playback.html?meetingId=0c45975583a7c90e11c71a630b48f8b864dc8379-1594465718715)
-
-   This session includes the concepts, such as, Navigation commands, Directory manipulation, File manipulation, General commands. The notes for the session can be found at -  [Click here.](https://drive.google.com/file/d/1AYpua5HxsWFCzytLyKJuLouNcmfiJML9/view)
-
-### Week 3
-
-* Editors and IDE
-
-   Here is the recording of the afternoon session on Introduction to Terminal - [Click here.](https://classroom.vrook.co/playback/presentation/2.0/playback.html?meetingId=0c45975583a7c90e11c71a630b48f8b864dc8379-1594876613743)
+First assignment for the course LY-CS101.
 
 
 ## Warm Up!
@@ -47,31 +24,57 @@ After creating the file, echo your name, username, date and time to that file. L
 echo "Hi! I'm $(whoami) and today is $(date)" > demo_file.txt
 ```
 
-And you are done for this section. Hop on to the main problem set.
-
-These guides will help you with the assignment: [Bash commands](https://drive.google.com/file/d/1AYpua5HxsWFCzytLyKJuLouNcmfiJML9/view) and [Working with Editors](https://lyceum-eot.github.io/course-docs/docs/week3)
+Aaaand... you are done for this section! Hop on to the main problems set.
 
 
 ## Assignments
 
+These guides will help you with the assignment: [Bash commands](https://drive.google.com/file/d/1AYpua5HxsWFCzytLyKJuLouNcmfiJML9/view) and [Working with Editors](https://lyceum-eot.github.io/course-docs/docs/week3)
+
 ###  Problem 1
 
-> Create a directory named `problem_1`
-> Go inside the directory `problem_1`
-> Create a bash script that does the following:
-	- moves the file `problem1.txt` from this assignment repository to the `problem_1` directory
+- Create a directory named `problem_1`
+- Go inside the directory `problem_1`
+- Create a bash script that does the following:
+	- moves the file `problem_1.txt` from this assignment repository to the `problem_1` directory
 	- echo your name, username, date and time to the `problem1.txt`
 
 ### Problem 2
 
-> Create a directory named `problem_2`
-> Go inside the directory `problem_2`
-> Create a file named `problem_2.txt`
-> Create a bash script that does the following:
-	- curl the website `https://wttr.in` and outputs to `problem_2.txt`.
+- Create a directory named `problem_2`
+- Go inside the directory `problem_2`
+- Create a file named `problem_2.txt`
+- Create a bash script that does the following:
+	- `curl` the website `https://wttr.in` and outputs to `problem_2.txt`.
 
-### GCC
+### Problem 3
 
-> Now the file "pi.c", computes few digits pi and prints it out. The task here is to compile the code using gcc and execute the executable file.
+- The file `pi.c`, computes few digits pi and prints it out. The task here is to compile the code using gcc and execute the executable file.
 
-> Now edit the bash script file "problem-4.sh" that compiles, executes and writes the output to the file "problem-4".
+- Edit the bash script file `problem_4.sh` that compiles, executes and writes the output to the file `problem_4.txt`.
+
+## Course Materials
+
+### Week 1
+
+Introduction to the course. Recordings - [Click here](https://drive.google.com/file/d/1x4fmxkPjzwaV8V-mfJPOVnkfuGaFge-J/view?usp=sharing)
+### Week 2
+
+* Introduction to OS
+
+   Here is the recording of the morning session on Introduction to OS - [Click here.](https://classroom.vrook.co/playback/presentation/2.0/playback.html?meetingId=0c45975583a7c90e11c71a630b48f8b864dc8379-1594445443466)
+
+   This session includes the concepts, such as, Compilers & Interpreters, Compile Time & Run Time, Preprocessing, Parsing, Static Checking, Code Generation, Abstraction, Virtualization, GCC Compiler. The presentations can be found at - [Click here.](https://drive.google.com/file/d/1kZjPCDpvjmxg9TbYzQA6bANixoHwv7Mg/view)
+
+
+* Introduction to Terminal
+
+   Here is the recording of the afternoon session on Introduction to Terminal - [Click here.](https://classroom.vrook.co/playback/presentation/2.0/playback.html?meetingId=0c45975583a7c90e11c71a630b48f8b864dc8379-1594465718715)
+
+   This session includes the concepts, such as, Navigation commands, Directory manipulation, File manipulation, General commands. The notes for the session can be found at -  [Click here.](https://drive.google.com/file/d/1AYpua5HxsWFCzytLyKJuLouNcmfiJML9/view)
+
+### Week 3
+
+* Editors and IDE
+
+   Here is the recording of the afternoon session on Introduction to Terminal - [Click here.](https://classroom.vrook.co/playback/presentation/2.0/playback.html?meetingId=0c45975583a7c90e11c71a630b48f8b864dc8379-1594876613743)
