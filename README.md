@@ -51,9 +51,9 @@ These guides will help you with the assignment: [Bash commands](https://drive.go
 
 ### Problem 3
 
-- The file `pi.c`, computes few digits pi and prints it out. The task here is to compile the code using gcc and execute the executable file.
+- The C file `pi.c`, computes few digits pi and prints it out. The task here is to compile the code using `gcc` and execute the object code
+- Take the output and write it to a text file using a bash script
 
-- Edit the bash script file `problem_4.sh` that compiles, executes and writes the output to the file `problem_4.txt`.
 
 ## Course Materials
 
