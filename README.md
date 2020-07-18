@@ -46,7 +46,7 @@ These guides will help you with the assignment: [Bash commands](https://drive.go
 - Create a file named `problem_2.txt`
 - Create a bash script that does the following:
 	- `curl` the website `https://wttr.in` and outputs to `problem_2.txt`
-	- `grep` the weather of July 20 and print the output. Format the output in your own way! Time to show your creativity!
+	- `grep` the weather of July 20 and print the output. Format the output in your own way! Show them creativity!
 
 
 ### Problem 3
