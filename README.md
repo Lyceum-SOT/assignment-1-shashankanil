@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/Lyceum-SOT/Ly-CS101-Assignment-1/blob/master/LICENSE)
 
 
-First assignment for the course LY-CS101. Deadline: 22nd July.
+First assignment for the course LY-CS101. Deadline: 24th July.
 
 
 ## Warm Up!
