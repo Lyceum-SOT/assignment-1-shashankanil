@@ -52,7 +52,7 @@ These guides will help you with the assignment: [Bash commands](https://drive.go
 ### Problem 3
 
 - The C file `pi.c`, computes few digits pi and prints it out. The task here is to compile the code using `gcc` and execute the object code
-- Take the output and write it to a text file using a bash script
+- Take the output and write it to a text file called `problem_3.txt` using a bash script
 
 
 ## Course Materials
